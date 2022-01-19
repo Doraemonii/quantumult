@@ -1,7 +1,8 @@
-域名后缀,emby.nexitally.com,Emby
-域名后缀,plusmedia.site,Emby
-域名后缀,mickeycloud.com,Emby
-域名后缀,emby.wtf,Emby
-域名后缀,jmsooo.com,Emby
-域名后缀,embyclub.com,Emby
-域后缀,emby.cjpc.cc,Emby
+DOMAIN-SUFFIX,emby.nexitally.com,Emby
+DOMAIN-SUFFIX,plusmedia.site,Emby
+DOMAIN-SUFFIX,mickeycloud.com,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,jmsooo.com,Emby
+DOMAIN-SUFFIX,embyclub.com,Emby
+DOMAIN-SUFFIX,emby.cjpc.cc,Emby
+DOMAIN-SUFFIX,play.charontv.com,Emby
